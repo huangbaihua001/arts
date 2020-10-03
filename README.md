@@ -4,11 +4,11 @@ ARTS是 Algorithm[算法] Review[点评] Tip[知识点] Share[分享] 的简称�
 
 ## Algorithm
 
-算法，每周必须完成一道Leetcode算法题，(循序渐进 easy->medium->hard)
+算法，每周必须完成一道Leetcode算法题，(循序渐进 easy->medium->hard)，或实现一种工作中常用到的算法。
 
 ## Review
 
-每周必须阅读并点评一篇英语技术文章
+每周必须阅读并点评一篇英语技术文章，或一篇有深度的英语文章。
 
 ## Tip
 
@@ -16,7 +16,7 @@ ARTS是 Algorithm[算法] Review[点评] Tip[知识点] Share[分享] 的简称�
 
 ## Share
 
-每周必须分享一篇有观点和思考的技术文章或技术总结的文章，建立自己的影响力，能够输出价值观
+每周必须分享一篇有观点和思考的技术文章或技术总结的文章，或是自己读书的深刻理解体会。
 
 ## Goal
 
@@ -29,7 +29,7 @@ ARTS是 Algorithm[算法] Review[点评] Tip[知识点] Share[分享] 的简称�
 
 ## About me
 
-一个笃信知识改变命运，技术成就梦想的技术人~
+笃信知识改变命运，技术成就梦想~
 
 
 
