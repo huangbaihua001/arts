@@ -37,7 +37,7 @@ ARTS是 Algorithm[算法] Review[点评] Tip[知识点] Share[分享] 的简称�
 
 ## About me
 
-笃信 ~知识改变命运，技术成就梦想~
+笃信知识改变命运，技术成就梦想~~~
 
 
 
